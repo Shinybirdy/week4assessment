@@ -1,0 +1,10 @@
+CREATE UNIQUE INDEX animals_of_zoo_pkey ON animals_of_zoo USING btree (id)
+
+Name of Database:zoo_of_insanity
+Name of table: animals_of_zoo
+Columns:
+  id
+  animal_type
+  amount
+  threat_level
+  
